@@ -8,7 +8,8 @@ SRIKAR SASHANK MUSHNURI 2019A7PS0160H<br/>
 
 
 ER-Diagram 
-![image](https://user-images.githubusercontent.com/57759452/113514015-ea5db500-9589-11eb-8cd9-72b2547a45ca.png)
+![image](https://user-images.githubusercontent.com/57759452/113514078-3f99c680-958a-11eb-99cc-b4689b729b74.png)
+
 <br/>
 DataBase Schema
 ![DBS_PROJECT (1)](https://user-images.githubusercontent.com/57759452/113514031-02cdcf80-958a-11eb-81fa-181a8f6dc2ba.png)
